@@ -1,0 +1,11 @@
+body {
+	background-color: purple;
+	color: pink;
+	text-align: center;
+}
+
+.alpix {
+/*	height: 333px;*/
+	width: 55%;
+	margin: 0, auto;
+}
